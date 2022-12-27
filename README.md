@@ -1,4 +1,7 @@
-# game_app
+# Game App UI
+
+<img src="./Screenshot_1672153636.png" alt="screenshot" style="width: 300px;">
+<img src="./Screenshot_1672153857.png" alt="screenshot" style="width: 300px;">
 
 A new Flutter project.
 
